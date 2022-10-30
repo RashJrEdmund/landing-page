@@ -1,20 +1,26 @@
 body {
-    background-image: linear-gradient(100deg,rgba(13, 236, 43, 0.8),rgba(255, 255, 255, 0.7)), url("../images/Rash.jpg");
+  margin: 0;
+  width: 100vw;
+  background-image: linear-gradient(100deg,rgba(13, 236, 43, 0.8),rgba(255, 255, 255, 0.7)), url("../images/Rash.jpg");
 }
+
 .header {
   font-family: sans-serif;
   color: black;
   margin-left: 50px;
 }
+
 .rash {
-    font-size: 150px;
-    color: black;
+  font-size: 150px;
+  color: black;
 }
+
 .jr-edmund {
-    font-size: 50px;
-    color: black;
-    margin-left: 50px;
+  font-size: 50px;
+  color: black;
+  margin-left: 50px;
 }
+
 .header-1 {
   padding-top: 100px;
   font-style: italic;
